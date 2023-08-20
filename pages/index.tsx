@@ -1,7 +1,7 @@
 import Layout from '../components/Layout'
 
 const Index = () => (
-  <Layout title="TFT Tracker">
+  <Layout title="Valorant Scores">
     <h1>Homepage 👋</h1>
   </Layout>
 )
